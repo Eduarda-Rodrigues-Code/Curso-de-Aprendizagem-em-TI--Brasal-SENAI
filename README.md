@@ -1,4 +1,4 @@
-# Curso-de-Aprendizagem-em-TI--Brasal-SENAI
+# Curso-de-Aprendizagem-em-TI-Brasal&SENAI
 Formação técnica oferecida através do programa de aprendizagem da Brasal em parceria com o SENAI, com foco no desenvolvimento de habilidades práticas e teóricas na área de Tecnologia da Informação. O curso é estruturado com conhecimento nas principais áreas da tecnologia, integrando conteúdo técnico, lógica e desenvolvimento de projetos.
 
 Conteúdos abordados:
